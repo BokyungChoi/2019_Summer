@@ -1,4 +1,4 @@
-# Dynamic Programming
+### Dynamic Programming
 
 한 번 푼 문제는 다시 풀지 않는다.
 불필요한 연산을 줄이기 위해 메모리를 대신 사용한다, 시간복잡도를 낮추고 공간복잡도는 지양.
@@ -8,7 +8,7 @@
 격자를 사용한다. 격자의 각 칸을 최적화하면 전체의 최적값을 찾을 수 있다.
 격자의 각 칸이 '하위 문제', 실전으로 적용했을 때 문제를 어떻게 하위 문제로 나눌 지 생각해야 하는 것이 중요하다.
 
-# Stochastic Programming / Stochastic Optimization (추계적 최적화)
+### Stochastic Programming / Stochastic Optimization (추계적 최적화)
 Linear 일 수도 있고, Dynamic 일 수 도 있다.
 이 분야의 연구들은 잘 정형화된 문제에서 좋은 성능을 보이고 있지만, 
 조금만 더 복잡한 문제(현실성 있는 문제)에 적용하기 위해서는 많은 노력을 필요로 한다. 
