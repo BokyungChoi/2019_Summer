@@ -72,3 +72,8 @@ multi-stage stochastic programming to deal with uncertain demand, dynamic pricin
 ======
 https://www.sciencedirect.com/science/article/pii/S1026309811000836#br000240
 요것 괜찮은 듯 하다.
+https://web.stanford.edu/~boyd/papers/pdf/pric_learn_unc_dem.pdf
+http://blog.daum.net/w-ko/78
+
+
+
