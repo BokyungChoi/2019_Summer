@@ -11,6 +11,8 @@ http://www.stat.columbia.edu/~liam/teaching/compstat-spr14/lauren-notes.pdf
 격자를 사용한다. 격자의 각 칸을 최적화하면 전체의 최적값을 찾을 수 있다.
 격자의 각 칸이 '하위 문제', 실전으로 적용했을 때 문제를 어떻게 하위 문제로 나눌 지 생각해야 하는 것이 중요하다.
 
+The key difference between the two is that in dynamic programming we're making one decision at a time, whereas in linear programming we're making all the decisions up front.
+
 ### Stochastic Programming / Stochastic Optimization (추계적 최적화) 확률론적 프로그래밍
 
 >예측성 문제들을 함수로 구현해 내려면 예측값을 추론하기 위한 수학적 과정들이 필요하다.  이런 수학적 과정으로는 통계적 가설수립, 확률 분포 모형 함수생성, 데이터 시뮬레이션을 통한 통계적 추론 , 데이터 샘플링, 확률분포간의 비교과정등이 있다. 또한 이러한 확률적 프로그래밍 방법에는 컴퓨팅 자원도 많이 필요해 OS와 프레임워크수준에서 CPU병렬처리나 GPU등의 사용도 효과적으로 지원도 되어야 한다.
