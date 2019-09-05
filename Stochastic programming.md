@@ -1,6 +1,6 @@
 ###### markdown에 익숙해지자
 https://gist.github.com/ihoneymon/652be052a0727ad59601
-
+http://www.stat.columbia.edu/~liam/teaching/compstat-spr14/lauren-notes.pdf
 ### Dynamic Programming
 
 한 번 푼 문제는 다시 풀지 않는다.
@@ -64,3 +64,9 @@ Dakota 가구회사는 각 상품의 수요만큼 혹은 그 이하만큼 생산
 그렇게 큰 행렬을 만드는 것은 매우 복잡한 작업임에 틀림없다. 
 
 [출처] Stochastic Linear Programming 문제해결용 MATLAB 코드 + 간단 설명|작성자 song4energy
+
+
+multi-stage stochastic programming to deal with uncertain demand, dynamic pricing
+======
+https://www.sciencedirect.com/science/article/pii/S1026309811000836#br000240
+요것 괜찮은 듯 하다.
