@@ -75,5 +75,18 @@ https://www.sciencedirect.com/science/article/pii/S1026309811000836#br000240
 https://web.stanford.edu/~boyd/papers/pdf/pric_learn_unc_dem.pdf
 http://blog.daum.net/w-ko/78
 
+> 이것 유용 [https://www2.isye.gatech.edu/~anton/stochoptiebook.pdf]
 
+two-stage stochastic integer programs
+===
+Two-stage stochastic programs refine modeling of uncertain futures by including both the impacts of Stage 1 choices before the future is known, and separate choices explicitly addressing recourse for each possible future scenario.
 
+→ Such integer (or discrete) stochastic programs are especially difficult to solve and only very moderate progress has been reported so far. A discussion of two-stage stochastic integer programs with recourse can be found in Birge and Louveaux (1997).
+
+현실 문제 ( scenario가 너무 많고 + 이진변수라는 점 ) ⇒ 관련 연구가 별로 없고 특별히 어려운 문제라고 함.
+
+→ deterministic으로 두고 푸는 수 밖에 없겠다
+
+Most optimization models are deterministic—not because OR analysts really believe that all problem parameters are known with certainty, but because useful prescriptive results can often be obtained only if stochastic variation is ignored.
+
+For convenience and tractability, deterministic models assume all model parameters are known with certainty even though they are truly only estimates of the values that will arise in real application.
