@@ -5,7 +5,7 @@ https://www.anderson.ucla.edu/faculty_pages/keith.chen/papers/SurgeAndFlexibleWo
 
 While there is broad consensus among economists that platforms like
 Uber increases consumer welfare, less attention has been paid to its effects on
-the labor market in terms of earnings, work flexibility, and overall efficiency.
+the labor market in terms of earnings, work flexibility, and overall efficiency. 
 
 This paper aims to measure how the dynamic pricing of tasks on online
 “sharing” and “gig” economy platforms influence the supply of labor on the
